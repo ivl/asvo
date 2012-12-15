@@ -6,7 +6,6 @@
 *.shfb
 *.swp
 *.suo
-*.txt
 *.user
 *.vspscc
 *.vssscc
@@ -14,7 +13,9 @@
 asvo/bin/
 asvo/Content/obj/
 asvo/obj/
+
 html/
+
 XNAnimation/XNAnimation/bin/
 XNAnimation/XNAnimation/obj/
 XNAnimation/XNAnimationPipeline/bin/
